@@ -15,3 +15,9 @@ Source material: NZQA AS91421 exam papers and schedules, 2015–2025, supplied b
 
 ## Guided practice
 Each question opens a topic-specific tutorial by default: score-reading prompts, an independent worked example and a written answer scaffold. The Auto-open tutorial checkbox can be switched off for independent practice; its preference is saved on the device. The tutorial remains available on demand. Worked examples are teaching examples, not quotations from the marking schedules.
+
+## Three progressive practice levels
+- Learn: 87 individual drills; tutorial opens by default; instant feedback.
+- Apply: 40 source-grouped analysis tasks, 115 selectable response components; answers are checked together, with a schedule-based model after submission. Tutorial available on demand.
+- Exam Ready: the same 40 scoped analysis tasks, original exam pages, written answers without choices or tutorials, and model response/schedule links after submission. Students self-assess confidence; this is not automated NZQA grading. Redacted or missing scores remain flagged, and scoped prompts may be adapted from longer original questions.
+- Progress, missed-question and unattempted filters are independent for each practice level. All 87 source drills are represented by the grouped tasks. The analysis-tasks.js file contains the grouping and authored components.
