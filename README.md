@@ -12,6 +12,3 @@ Static web app. Open `index.html` locally or upload the entire folder contents t
 This is a first working version, not exhaustive transcription of every possible analytical answer or a full exam simulator. Covers all 11 years; emphasis on key identification, key relationships, modulation evidence, harmonic rhythm, harmonic function and compositional devices. Full harmonisation, score annotation and chord-by-chord marking are outside this version. Some alternative accepted answers are included in feedback; the response choices are designed around one best answer. The 2015–2017 questions include foundational steps, not necessarily standalone Excellence tasks.
 
 Source material: NZQA AS91421 exam papers and schedules, 2015–2025, supplied by teacher. Keep distribution limited to authorised classroom use. No NZQA endorsement is implied.
-
-## GitHub deployment
-Upload the extracted contents of harmony-drill.zip to the repository root (including assets/), then set Settings → Pages → Deploy from a branch → main → / (root).
